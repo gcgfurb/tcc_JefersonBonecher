@@ -2,8 +2,49 @@
 
 [TCC1](TCC1 "TCC1")  
 
+Especialista: Yuri prof. Mercado de Capitais
+
+
 ## 2023-08-22 - 19:26
 
 Conversa inicial sobre orientação de TCC.  
 
 [2023-08-22_EMail](2023-08-22_EMail.pdf)  
+
+## 2023-08-28 - 17:46
+
+__ Ambiente:
+Pyton
+Collab (Google)
+Jupter
+GPU não
+
+__ Dados:
+YFinance (Yhoo)  
+50 / 100 dias  
+
+__ Algoritmos:
+1x LSTM
+1x GRU
+
+__ Variáveis Entrada:
+2x várias  
+5 ações de valores (20 gráficos)  
+  1x volátil
+  1x mais fixa
+  3x politicas
+Valor de fechamento das ações  
+profa. Henrite - Estática  
+
+Próxima semana:
+
+- definir as variáveis  
+- preparar o ambiente em si  
+  
+Perguntas pesquisa __ **faixa de controle**: 65% a 75%  
+
+- se os **algoritmos** escolhidos são adequado  
+- se escolha das **variáveis**  
+- período de análise (impactar na tempo de resposta, 50 dias)  
+
+LDTT (S-223) (aula S-415) -> Segurança de Segurnaça S-429
