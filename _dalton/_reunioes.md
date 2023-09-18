@@ -47,4 +47,15 @@ Perguntas pesquisa __ **faixa de controle**: 65% a 75%
 - se escolha das **variáveis**  
 - período de análise (impactar na tempo de resposta, 50 dias)  
 
-LDTT (S-223) (aula S-415) -> Segurança de Segurnaça S-429
+LDTT (S-223) (aula S-415) -> Segurança de Segurança S-429
+
+## 2023-09-18 - 17:31
+
+Definiu 3 variáveis  
+100 dias  
+
+- fazer testes e fazer a implementação  
+- estudando se vai, qual seria a forma de normalizar  
+- período de treinamento / testes  
+
+Semana vem para FURB  
