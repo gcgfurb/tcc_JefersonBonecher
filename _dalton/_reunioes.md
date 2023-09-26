@@ -59,3 +59,14 @@ Definiu 3 variáveis
 - período de treinamento / testes  
 
 Semana vem para FURB  
+
+## 2023-09-25 - 17:51
+
+### GRU
+
+Fez testes iniciais no Collab  
+Importa dados  
+Treino de rede  (Tenso Flow)
+Gráfico  
+
+Vai entender melhor  
