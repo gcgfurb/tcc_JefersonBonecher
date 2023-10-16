@@ -70,3 +70,11 @@ Treino de rede  (Tenso Flow)
 Gráfico  
 
 Vai entender melhor  
+
+## 2023-10-16 - 17:51
+
+### LSTM
+
+Implementou e tem alguns problemas.  
+Normalização: precisa fazer ajustes ... tratar falta de dias sem valores.  
+
