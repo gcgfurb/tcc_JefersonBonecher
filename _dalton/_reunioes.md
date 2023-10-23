@@ -86,3 +86,4 @@ Erro nas linhas vermelho e laranja.
 Artigo iniciou Introdução.  
 
 ### Implementação termino: 12/11
+
