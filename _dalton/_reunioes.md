@@ -78,3 +78,11 @@ Vai entender melhor
 Implementou e tem alguns problemas.  
 Normalização: precisa fazer ajustes ... tratar falta de dias sem valores.  
 
+## 2023-10-23 - 17:58
+
+![2023-10-23_Grafico](2023-10-23_Grafico.png)  
+Erro nas linhas vermelho e laranja.  
+
+Artigo iniciou Introdução.  
+
+### Implementação termino: 12/11
