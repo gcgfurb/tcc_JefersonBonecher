@@ -87,3 +87,15 @@ Artigo iniciou Introdução.
 
 ### Implementação termino: 12/11
 
+## 2023-11-06 - 17:49
+
+4 Algoritmos normalização: vai escolher um deles.  
+5 Algoritmos Acurácia: MSA, MPA ...  
+Final de semana: implementar o algoritmo final.  
+
+### Artigo
+
+Introdução (90%)  
+Correlato (100%)  
+
+Entregar final do artigo: semana 20/11
