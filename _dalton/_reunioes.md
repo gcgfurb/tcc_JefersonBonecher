@@ -99,3 +99,12 @@ Introdução (90%)
 Correlato (100%)  
 
 Entregar final do artigo: semana 20/11
+
+## 2023-11-20 - 17:47
+
+Taxa não boa 45% LSTM  --> 60% na média  
+Artigo: escrevendo.  
+
+## 2023-12-05 - 17:04
+
+[2023-12-05_EMail_Desistindo.pdf](2023-12-05_EMail_Desistindo.pdf)  
