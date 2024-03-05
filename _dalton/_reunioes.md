@@ -108,3 +108,7 @@ Artigo: escrevendo.
 ## 2023-12-05 - 17:04
 
 [2023-12-05_EMail_Desistindo.pdf](2023-12-05_EMail_Desistindo.pdf)  
+
+## 2024-03-04 - 22:08
+
+Planos de até final de abril terminar implementação.  
