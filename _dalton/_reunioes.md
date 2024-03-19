@@ -112,3 +112,8 @@ Artigo: escrevendo.
 ## 2024-03-04 - 22:08
 
 Planos de até final de abril terminar implementação.  
+
+## 2024-03-18 - 21:54
+
+Refatorando LSTM e depois na GRM.  
+Não precisamos conversar na próxima semana.  
