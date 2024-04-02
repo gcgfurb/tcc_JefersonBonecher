@@ -117,3 +117,7 @@ Planos de até final de abril terminar implementação.
 
 Refatorando LSTM e depois na GRM.  
 Não precisamos conversar na próxima semana.  
+
+## 2024-04-01 - 21:58
+
+Mais ou menos pelo dia 25 de maio deve finalizar o TCC.  
