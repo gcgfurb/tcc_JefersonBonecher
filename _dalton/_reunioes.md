@@ -121,3 +121,10 @@ Não precisamos conversar na próxima semana.
 ## 2024-04-01 - 21:58
 
 Mais ou menos pelo dia 25 de maio deve finalizar o TCC.  
+
+## 2024-04-08 - 21:51
+
+Finalizar os algoritmos no final de abril.  
+Sem dúvidas.  
+
+Não vai ter reunião na próxima semana, pois só precisa de tempo para desenvolver o resto dos algoritmos.  
