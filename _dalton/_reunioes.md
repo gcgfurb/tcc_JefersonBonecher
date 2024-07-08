@@ -128,3 +128,7 @@ Finalizar os algoritmos no final de abril.
 Sem dúvidas.  
 
 Não vai ter reunião na próxima semana, pois só precisa de tempo para desenvolver o resto dos algoritmos.  
+
+## 2024-07-08 - 07:19
+
+[2024-07-05_Defesa.md](2024-07-05_Defesa.md)  
